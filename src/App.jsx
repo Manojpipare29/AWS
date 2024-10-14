@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       <h1 className='h1'>hello react</h1>
+      <h2>hello everyone</h2>
       <div className='div1'></div>
     </div>
   )
